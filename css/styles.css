@@ -9,8 +9,8 @@ body{
     background: rgb(21,86,195);
     background: linear-gradient(
         90deg,
-        rgb(57, 54, 250) 0%,
-        rgb(162, 23, 172) 100%);
+        rgb(14, 53, 248) 0%,
+        rgb(42, 0, 146) 100%);
 }
 
 .page-header{
@@ -50,3 +50,28 @@ body{
     justify-content: center;
 }
 
+.gallery{
+background-color: whitesmoke;
+}
+
+.gal-img{
+    height: 25rem;
+    width: 20rem;
+    border-radius: 5%;
+}
+
+.services{
+    color: #fff;
+}
+
+footer{
+    color: #fff;
+    font-size:1rem;
+    margin:0;
+    padding:1rem;
+}
+
+footer a{
+    color: #fff;
+    text-decoration: none;
+}
